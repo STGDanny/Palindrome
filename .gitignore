@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/checkIfPalindrome/checkIfPalindrome.vcxproj
+/checkIfPalindrome/checkIfPalindrome.vcxproj.filters
