@@ -17,5 +17,5 @@ void convertToLowercase(char[]);
 bool checkRange(int, int, int, bool);
 
 //Constants
-#define MAX_STR_SIZE 20
+#define MAX_STR_SIZE 21
 #define GAP_BETWEEN_CHAR_SETS 32
